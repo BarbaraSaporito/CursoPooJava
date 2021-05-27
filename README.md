@@ -10,7 +10,8 @@ classes, objetos, métodos, encapsulamento e polimorfismo.
 ### Pré-requisitos
 Plataforma e softwares necessários para rodar o projeto:
   - [Jdk Netbeans 8.2](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
-  - [Windows 10] (https://www.microsoft.com/pt-br/software-download/windows10)
+  - [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10)
+
   
   
 ### Instalando e executando:
